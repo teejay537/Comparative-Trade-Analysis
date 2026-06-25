@@ -1,0 +1,13 @@
+hs_code,product_description,sector,tariff_rate,domestic_capacity_score,strategic_importance_score,notes
+010121,Live horses,Agriculture,8,35,30,Niche agricultural item
+100630,Semi-milled rice,Agriculture,12,50,75,Food security relevance
+170199,Refined sugar,Agriculture,16,65,78,Sensitive food-processing item
+271012,Light petroleum oils,Energy,6,70,92,Energy-sector relevance
+300490,Medicaments,Pharmaceuticals,10,55,94,Health-system sensitivity
+391740,Plastic fittings,Manufacturing,15,75,55,Domestic plastics sector
+720839,Flat-rolled steel,Metals,20,90,90,Core industrial product
+850440,Static converters,Electronics,18,70,78,Strategic electronics supply chain
+870323,Passenger vehicles,Automotive,30,88,95,High-priority auto sector
+940360,Wooden furniture,Consumer goods,9,55,40,Moderate sensitivity
+851712,Mobile phones,Electronics,5,45,70,Consumer electronics item
+901890,Medical instruments,Medical devices,13,60,85,Health equipment sensitivity

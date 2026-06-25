@@ -1,0 +1,2 @@
+package_type,a_ask_hs_code,a_ask_product,a_ask_score,a_possible_concession_hs_code,a_possible_concession_product,concession_value,concession_sensitivity,package_balance_score,package_note
+Ask-for-concession package,870323,Passenger vehicles,95.4,851712,Mobile phones,53.0,47.0,48.4,Positive balance means the ask score exceeds the domestic sensitivity of the possible concession.

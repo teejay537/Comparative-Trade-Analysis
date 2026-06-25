@@ -1,0 +1,13 @@
+hs_code,product_description,sector,tariff_rate,domestic_capacity_score,strategic_importance_score,notes
+010121,Live horses,Agriculture,5,45,35,Low strategic sensitivity
+100630,Semi-milled rice,Agriculture,18,70,85,Food security-sensitive item
+170199,Refined sugar,Agriculture,22,75,80,Politically sensitive agricultural product
+271012,Light petroleum oils,Energy,8,55,90,Energy-security relevance
+300490,Medicaments,Pharmaceuticals,4,60,95,Strategic health product
+391740,Plastic fittings,Manufacturing,10,65,50,Moderate manufacturing interest
+720839,Flat-rolled steel,Metals,14,80,88,Industrial base-sensitive product
+850440,Static converters,Electronics,6,50,70,Renewable-energy supply chain item
+870323,Passenger vehicles,Automotive,25,85,92,High employment and industrial-policy relevance
+940360,Wooden furniture,Consumer goods,12,68,45,Export-oriented light manufacturing
+851712,Mobile phones,Electronics,2,20,65,Low domestic capacity
+901890,Medical instruments,Medical devices,7,40,82,Strategic but import-reliant product
